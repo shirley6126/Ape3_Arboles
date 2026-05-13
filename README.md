@@ -84,7 +84,23 @@ java -cp java Ejercicio1_Basico
 javac java/Ejercicio2_Binario.java java/Ejercicio3_Binario2.java
 java -cp java Ejercicio3_Binario2
 ```
+---
 
+## Capturas de ejecución
+Ejercicio 1: 
+![alt text](image.png)
+
+Ejercicio 2: 
+![alt text](image-1.png)
+
+Ejercicio 3: 
+![alt text](image-2.png)
+
+Ejercicio 4: 
+![alt text](image-3.png)
+
+Ejercicio 5: 
+![alt text](image-4.png)
 ---
 
 ## Instrucciones para el Desarrollo
