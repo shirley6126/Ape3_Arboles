@@ -1,7 +1,6 @@
 # Práctica APE - Estructuras de Datos: Árboles
 
 **Facultad:** Ingeniería en Sistemas, Electrónica e Industrial
-
 **Estudiante:** Shirley Amaguaña  
 **Carrera:** Software  
 **Asignatura:** Estructura de Datos  
