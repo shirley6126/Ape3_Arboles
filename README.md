@@ -1,19 +1,20 @@
-# 🌳 Práctica APE - Estructuras de Datos: Árboles
+# Práctica APE - Estructuras de Datos: Árboles
 
-**Facultad:** Ingeniería en Sistemas, Electrónica e Industrial  
+**Facultad:** Ingeniería en Sistemas, Electrónica e Industrial
+**Estudiante** Shirley Amaguaña  
 **Carrera:** Software  
 **Asignatura:** Estructura de Datos  
 **Tema:** Árboles
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Práctica enfocada en la implementación de árboles N-arios y Binarios, cubriendo inserción en BST, cálculo de altura, recorridos InOrder y transformación espejo. Los ejercicios están resueltos en **C++** y **Java**.
 
 ---
 
-## 🎯 Objetivos de Aprendizaje
+## Objetivos de Aprendizaje
 
 Al completar estos ejercicios, serás capaz de:
 
@@ -25,7 +26,7 @@ Al completar estos ejercicios, serás capaz de:
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 APE_ARBOLES/
@@ -45,14 +46,14 @@ APE_ARBOLES/
 │   └── Ejercicio5_Transformacion.java→ Árbol espejo
 │
 ├── informe/
-│   └── Informe_APE_Arboles.docx
+│   └── Informe_APE_Arboles_Shirley.docx
 │
 └── README.md
 ```
 
 ---
 
-## 📝 Ejercicios
+## Ejercicios
 
 | # | Tema | Concepto clave |
 |---|------|----------------|
@@ -64,7 +65,7 @@ APE_ARBOLES/
 
 ---
 
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 
 ### C++
 ```bash
@@ -85,8 +86,9 @@ java -cp java Ejercicio3_Binario2
 
 ---
 
-## ✅ Instrucciones para el desarrollo
+## Instrucciones para el Desarrollo
 
-1. En cada archivo hay un comentario `TODO: Implementa tu lógica aquí` que indica el lugar a completar.
-2. **No modificar** el método `main` ni la estructura base de las clases.
-3. El resultado impreso debe coincidir con los valores esperados que aparecen en consola.
+1. Dentro de cada archivo encontrarán la estructura básica de las clases (o structs) y la definición de un método específico que deben completar. 
+2. Localicen el comentario `TODO: Implementa tu lógica aquí`. Esa es la única sección del código que necesitan modificar.
+3. No es necesario modificar el método `main`. Este método ya contiene la construcción de un árbol de prueba y las impresiones necesarias para validar que su algoritmo funciona correctamente.
+4. Su objetivo es lograr que, al ejecutar el código, los resultados calculados coincidan con los resultados esperados impresos en la consola.
