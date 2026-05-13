@@ -91,23 +91,23 @@ java -cp java Ejercicio3_Binario2
 
 **Ejercicio 1**
 
-![Ejercicio 1](image.png)
+![Ejercicio 1](img/image.png)
 
 **Ejercicio 2**
 
-![Ejercicio 2](image-1.png)
+![Ejercicio 2](img/image-1.png)
 
 **Ejercicio 3**
 
-![Ejercicio 3](image-2.png)
+![Ejercicio 3](img/image-2.png)
 
 **Ejercicio 4**
 
-![Ejercicio 4](image-3.png)
+![Ejercicio 4](img/image-3.png)
 
 **Ejercicio 5**
 
-![Ejercicio 5](image-4.png)
+![Ejercicio 5](img/image-4.png)
 
 ---
 
